@@ -1,4 +1,4 @@
-ud120-projects
+my first pet project
 ==============
 
-Starter project code for students taking Udacity ud120
+This project is planned to impart a working knowledge of Supervised classification, Regression. In this pet-project I used the most popular Enron dataset. I also got hands on with the text classification with the email classification. 
