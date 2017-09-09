@@ -5,13 +5,11 @@ This project is planned to impart a working knowledge of Supervised classificati
 - Supervised Classification
       
       - Naive Bayes
-      
       - Support Vector Machines
-      
       - Decision Trees
-      * kNN (k-nearest neighbors)
-      * AdaBoost
-      * Random forests
+      - kNN (k-nearest neighbors)
+      - AdaBoost
+      - Random forests
 - Regression
       * Linear regression
 - Outliers
