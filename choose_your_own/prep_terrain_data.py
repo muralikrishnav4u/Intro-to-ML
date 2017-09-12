@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import random
 
-
 def makeTerrainData(n_points=1000):
 ###############################################################################
 ### make the toy dataset
